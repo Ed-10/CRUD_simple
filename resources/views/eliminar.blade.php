@@ -9,7 +9,7 @@
       
       <p class="card-text">
         <div class="alert alert-danger" role="alert">
-            SEGURO QUE DESEAS ELIMINAR?
+            ¿SEGURO QUE DESEAS BORRAR A ESTA PERSONA?
             <table class="table table-sm table-hover">
                 <thead>
                     <th>Apellido Paterno</th>
@@ -41,4 +41,3 @@
   </div>
 
 @endsection
-
